@@ -13,6 +13,6 @@ To accomplish this I used the following technologies:
  - Numpy, scipy.stats 
  - Tableau 
 
-See ![here] (https://public.tableau.com/shared/RQKKQFHRP?:display_count=n&:origin=viz_share_link)
+See visualization here:  https://public.tableau.com/shared/RQKKQFHRP?:display_count=n&:origin=viz_share_link)
 
 ### Enjoy :)

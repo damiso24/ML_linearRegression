@@ -2,7 +2,7 @@
 
 > Data Visualization 
 
-![enter image description here](images/main.png)
+![enter image description here](200_viz_snapshot.png)
 
 ## What determines the your Insurance premiums?
 Data Suggests the **key compounding factors** are:
